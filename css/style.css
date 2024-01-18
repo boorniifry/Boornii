@@ -1529,9 +1529,9 @@ blockquote cite:before {
     position: relative
 }
 
-.about1-img{
+.about1-img {
     height: 364px;
-    width: 450px;
+    width: 400px;
 }
 
 .about-img .about-img-2 {
@@ -4525,13 +4525,13 @@ hr.border-2 {
 
 /* =========Contact Us====== */
 
-.contactus-sec-h2{
+.contactus-sec-h2 {
     font-size: 40px;
     font-weight: 500;
     color: white;
 }
 
-.contactus-sec-h6{
+.contactus-sec-h6 {
     color: white !important;
 }
 
