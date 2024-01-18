@@ -1529,6 +1529,11 @@ blockquote cite:before {
     position: relative
 }
 
+.about1-img{
+    height: 364px;
+    width: 450px;
+}
+
 .about-img .about-img-2 {
     width: 40% !important;
     position: absolute;
@@ -4518,6 +4523,17 @@ hr.border-2 {
     color: #272727;
 }
 
+/* =========Contact Us====== */
+
+.contactus-sec-h2{
+    font-size: 40px;
+    font-weight: 500;
+    color: white;
+}
+
+.contactus-sec-h6{
+    color: white !important;
+}
 
 
 /* ======= Footer style ======= */
